@@ -1,1 +1,3 @@
 # BackgroundSubtraction
+
+通过高斯混合模型实现视频图像背景减除
